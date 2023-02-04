@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/laksh/Music/Games/UnrealEngine/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FJ/KNDNKP4ACKH018NBRCTMO3.uasset",
+				"C:/Users/laksh/Music/Games/UnrealEngine/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/82/WU4VC6EGJ6OD9P6J960NSG.uasset",
+				"C:/Users/laksh/Music/Games/UnrealEngine/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DG/L8SU9OJ5IVU98IVJYWPYID.uasset",
+				"C:/Users/laksh/Music/Games/UnrealEngine/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RK/O8FQH0J98BFEY5UJRESEYS.uasset"
+			]
+		}
+	]
+}
